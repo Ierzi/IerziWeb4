@@ -9,3 +9,5 @@ The source code from my site web!
 **Alpha 0.1.1**: 04/06/23, Added Some Buttons (Projects and Source Code). I made it work.
 
 **Alpha 0.1.2**: 04/06/23, Updated the files and added a new button
+
+**Alpha 0.2**: 04/06/23, Added *news_script.js* and *newsindex.html*.
